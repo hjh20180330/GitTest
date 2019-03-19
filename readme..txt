@@ -22,4 +22,8 @@ dfgfg
 test a branch
 
 dev test
+
 test confilict
+=======
+test nonconflict
+
